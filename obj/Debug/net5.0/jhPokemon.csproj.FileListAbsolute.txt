@@ -26,9 +26,6 @@ C:\Users\exfjhh\source\repos\jhPokemon\obj\Debug\net5.0\jhPokemon.dll
 C:\Users\exfjhh\source\repos\jhPokemon\obj\Debug\net5.0\ref\jhPokemon.dll
 C:\Users\exfjhh\source\repos\jhPokemon\obj\Debug\net5.0\jhPokemon.pdb
 C:\Users\exfjhh\source\repos\jhPokemon\obj\Debug\net5.0\jhPokemon.genruntimeconfig.cache
-C:\Users\exfjhh\source\repos\jhPokemon\bin\Debug\net5.0\Pokemons\Ditto.json
-C:\Users\exfjhh\source\repos\jhPokemon\bin\Debug\net5.0\Pokemons\Mewtwo.json
-C:\Users\exfjhh\source\repos\jhPokemon\bin\Debug\net5.0\Pokemons\Species150.json
 C:\Users\exfjhh\source\repos\jhPokemon\bin\Debug\net5.0\System.Net.Http.Formatting.dll
 C:\Users\exfjhh\source\repos\jhPokemon\bin\Debug\net5.0\System.Web.Http.dll
 C:\Users\exfjhh\source\repos\jhPokemon\bin\Debug\net5.0\Newtonsoft.Json.dll
